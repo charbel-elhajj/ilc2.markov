@@ -4,7 +4,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
-
+/**
+ * This class learns texts and generates text, it will use the MarkovData class
+ *
+ */
 public class MarkovChain {
 	
 	/** Markov chain ngram parameter (contiguous sequence of words) */

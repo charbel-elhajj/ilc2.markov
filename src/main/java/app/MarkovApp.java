@@ -6,7 +6,12 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 import markov.MarkovChain;
-
+/**
+ * 
+ *  This class has the goal to analyze patterns of three words.
+ *  It's the main class of the program
+ *
+ */
 public class MarkovApp {
 	
 	public static void main(String[] args) throws Exception {

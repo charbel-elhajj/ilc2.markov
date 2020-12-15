@@ -5,7 +5,11 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
+/**
+ * 
+ * This class will contain all the information of the creation of the tuples
+ *
+ */
 public class MarkovData {
 	private Map<String, String> markovTable = new HashMap<String,String>();
 	private List<String> textwords = new ArrayList<String>();
